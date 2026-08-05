@@ -1,20 +1,9 @@
 {
   "name": "autogen-capsolver",
   "owner": "capsolver-ai",
-  "description": "Official CapSolver FunctionTools for Microsoft AutoGen agents and multi-agent applications.",
-  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
-  "topics": [
-    "capsolver",
-    "autogen",
-    "microsoft-autogen",
-    "multi-agent",
-    "ai-agents",
-    "captcha",
-    "function-calling",
-    "python",
-    "llm",
-    "agent-tools"
-  ],
-  "visibility": "public",
-  "status": "publish-now"
+  "description": "Runnable Microsoft AutoGen examples using the CapSolver Agent library.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/agent-tools/",
+  "topics": ["capsolver", "autogen", "microsoft-autogen", "ai-agents", "multi-agent", "agent-tools", "captcha", "examples", "python", "llm"],
+  "visibility": "private",
+  "status": "demo"
 }

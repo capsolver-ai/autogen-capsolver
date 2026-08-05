@@ -1,5 +1,5 @@
 # Examples
 
-Examples must be runnable and safe to share. Copy .env.example to .env, provide your own keys, and use only pages and accounts you are authorized to automate.
+`quickstart.py` wraps two shared CapSolver executor calls with AutoGen `FunctionTool` and passes them to `AssistantAgent`.
 
-Released adapters should provide minimal setup, token mode, browser recovery where applicable, and structured error handling.
+The repository is a runnable demo, not an `autogen-capsolver` distribution.
